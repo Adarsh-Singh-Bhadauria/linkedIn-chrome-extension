@@ -14,11 +14,11 @@ https://github.com/Adarsh-Singh-Bhadauria/linkedIn-chrome-extension/assets/74206
 4. See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#loading-the-extension
 5. For further guidance, visit (https://docs.plasmo.com/).
 6. Load Extension on Chrome
-   • Open - Chrome browser
-   • Access - chrome://extensions
-   • Check - Developer mode
-   • Find - Load unpacked extension
-   • Select - `build/chrome-mv3-dev (or build/chrome-mv3-prod)` folder in this project (after dev or build)
+   - Open - Chrome browser
+   - Access - chrome://extensions
+   - Check - Developer mode
+   - Find - Load unpacked extension
+   - Select - `build/chrome-mv3-dev (or build/chrome-mv3-prod)` folder in this project (after dev or build)
 7. If you want to build in production, Just run `npm run build`.
 
 ## Contributing
